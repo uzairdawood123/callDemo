@@ -1,0 +1,6 @@
+module Pods_CallDemo_CallDemoTests {
+  umbrella header "Pods-CallDemo-CallDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
